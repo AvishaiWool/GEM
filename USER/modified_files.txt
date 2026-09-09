@@ -1,0 +1,5 @@
+/root/iptables-1.2.8/include/libiptc/libiptc.h 
+/root/iptables-1.2.8/iptables.c 
+/root/iptables-1.2.8/libiptc/libip4tc.c 
+/root/iptables-1.2.8/libiptc/libip6tc.c 
+/root/iptables-1.2.8/libiptc/libiptc.c 
