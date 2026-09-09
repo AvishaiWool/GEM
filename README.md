@@ -6,7 +6,7 @@ All rights reserved.
 
 This is a modified version of iptables
 which uses the GEM algorithm for packet matching.
-The official iptables web site is http://www.netfilter.org/
+The official iptables web site is http://www.netfilter.org/ .
 iptables/netfilter is licensed under the GNU General Public License. 
 Our copyright relates only to the modifications we made to incorporate
 the GEM algorithm into iptables.
