@@ -1,0 +1,9 @@
+/lib/modules/2.4.20-8/build/net/ipv4/netfilter/ip_nat_rule.c 
+/lib/modules/2.4.20-8/build/net/ipv4/netfilter/iptable_filter.c 
+/lib/modules/2.4.20-8/build/net/ipv4/netfilter/iptable_mangle.c 
+/lib/modules/2.4.20-8/build/net/ipv4/netfilter/ip_tables.c 
+/lib/modules/2.4.20-8/build/net/ipv6/netfilter/ip6table_filter.c 
+/lib/modules/2.4.20-8/build/net/ipv6/netfilter/ip6table_mangle.c 
+/lib/modules/2.4.20-8/build/net/ipv6/netfilter/ip6_tables.c 
+/lib/modules/2.4.20-8/build/include/linux/netfilter_ipv4/ip_tables.h
+/lib/modules/2.4.20-8/build/include/linux/netfilter_ipv6/ip6_tables.h
