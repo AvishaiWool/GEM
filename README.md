@@ -23,6 +23,8 @@ The geometric efficient matching algorithm for firewalls.
 IEEE Trans. Dependable and Secure Computing, 8(1):147–159, 2011.
 
 Send comments / requests / patches to:
+  
   Avishai Wool <yash@eng.tau.ac.il>
+  
   https://www.avishaiwool.sites.tau.ac.il
 
